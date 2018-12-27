@@ -13,3 +13,6 @@ Stanford University CS231n, Spring 2017 [youtube](https://www.youtube.com/playli
 Natural Language Processing with Deep Learning (Winter 2017) [youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) [bilibili](https://www.bilibili.com/video/av30326868)  
 [伯克利2019深度学习课程](http://courses.diveintodeeplearning.org/berkeley-stat-157)  
 [动手深度学习(李沐等)](https://zh.diveintodeeplearning.org)  
+# 公众号
+PaperWeekly [知乎](https://zhuanlan.zhihu.com/paperweekly)  
+SigAi [知乎](https://www.zhihu.com/org/bei-jing-zhang-liang-wu-xian-ke-ji-you-xian-gong-si/activities)  
