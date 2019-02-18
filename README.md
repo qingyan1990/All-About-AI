@@ -1,3 +1,5 @@
+# ML
+[隐马尔科夫模型](http://www.52nlp.cn/category/hidden-markov-model)  
 # Papers
 ## NLP
 [Neural Machine Translation by Jointly Learning to Align and Translate(seq2seq, attention)](https://arxiv.org/abs/1409.0473)  
@@ -18,3 +20,4 @@ Natural Language Processing with Deep Learning (Winter 2017) [youtube](https://w
 PaperWeekly [知乎](https://zhuanlan.zhihu.com/paperweekly)  
 SigAi [知乎](https://www.zhihu.com/org/bei-jing-zhang-liang-wu-xian-ke-ji-you-xian-gong-si/activities)  
 机器之心 [知乎](https://zhuanlan.zhihu.com/jiqizhixin)  
+量子位 [知乎](https://www.zhihu.com/org/liang-zi-wei-48)  
